@@ -1,4 +1,29 @@
-# Gatsby Theme Carbon Starter
+# (POC) Gatsby Carbon Design
+
+POC using Gatsby and Carbon Design template
+
+pre-requisite:
+* node v20.13.1
+* Gatsby CLI v5.13.3
+* git
+
+```
+git@github.com:eduardocerqueira/gatsby-carbon-design.git
+cd gatsby-carbon-design
+npm install
+npm run dev
+```
+
+You can now view example in the browser.
+
+  Local:            http://localhost:8000/
+
+View GraphiQL, an in-browser IDE, to explore your site's data and schema
+
+  Local:            http://localhost:8000/___graphql
+
+-- 
+## Gatsby Theme Carbon Starter
 
 ## What is this?
 
