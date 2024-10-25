@@ -22,6 +22,12 @@ View GraphiQL, an in-browser IDE, to explore your site's data and schema
 
   Local:            http://localhost:8000/___graphql
 
+
+## Reference
+* https://gatsby.carbondesignsystem.com/getting-started/
+* https://www.gatsbyjs.com/docs/quick-start/
+
+
 -- 
 ## Gatsby Theme Carbon Starter
 
